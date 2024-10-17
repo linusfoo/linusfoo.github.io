@@ -51,13 +51,15 @@ linkedin_username: linus-foo
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profilepic.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+I am a Software Engineer at Defence Science and Technology Agency (DSTA) working on various fields in Machine Learning including NLP and Computer Vision.|
+On the side, I engage in research relating to NLP where my research interest include \textbf{Low-resource Languages}, \textbf{Language Representation} and \textbf{Biases in LLMs}.
+  # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+  # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+  #   - Lists
+  #   - Tables
+  #   - <a href="google.com">Links</a>
+  #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
