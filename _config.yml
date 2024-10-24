@@ -114,16 +114,28 @@ content:
     content:
       - layout: top-right
         title: University of Edinburgh 
- 
         sub_title: Msc in Speech and Language Processing
         caption: 2023-2024
         # quote: >
         #   One of the 
-        description: * Accelerated Natural Language Processing |
-        * Speech Processing | 
-        * Natural Language Understanding, Generation, and Machine Translation |
-        * Automatic Speech Recognition | 
-        * Reinforcement Learning 
+        description: Relevant Courses: | 
+        - Accelerated Natural Language Processing 
+        - Speech Processing 
+        - Natural Language Understanding, Generation, and Machine Translation 
+        - Automatic Speech Recognition 
+        - Reinforcement Learning 
+      - layout: top-right
+        title: McGill University
+        sub_title: Bsc in Computer Science, Minor in Mathematics
+        caption: 2020-2023
+        # quote: >
+        #   One of the 
+        description: 
+        - Accelerated Natural Language Processing 
+        - Speech Processing 
+        - Natural Language Understanding, Generation, and Machine Translation 
+        - Automatic Speech Recognition 
+        - Reinforcement Learning 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
