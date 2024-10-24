@@ -101,7 +101,7 @@ content:
     content:
       - layout: right
         title: Elettronica Group
-        sub_title: AI Engineer
+        sub_title: AI Engineer (Intern)
         caption: June 2023 ‑ Aug 2023
         # link: Link to company (optional)
         # quote: >
@@ -109,6 +109,18 @@ content:
         description: 
           - Selected as part of a Global Internship Program that allows students to work in relevant companies worldwide.
           - Developed methodologies to improve on both visible and infrared drone‑detection technologies using various Computer Vision Models.
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: Defence Science and Technology Agency (DSTA)
+        sub_title: AAI Engineer (Intern)
+        caption: May 2022 ‑ Aug 2022
+        # link: Link to company (optional)
+        # quote: >
+        #   Short description of the company (optional)
+        description: 
+        
   - title: Education
     layout: list
     content:
@@ -118,7 +130,7 @@ content:
         caption: 2023-2024
         # quote: >
         #   One of the 
-        description: Relevant Courses: | 
+        description: Relevant Courses:  
         - Accelerated Natural Language Processing 
         - Speech Processing 
         - Natural Language Understanding, Generation, and Machine Translation 
