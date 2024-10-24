@@ -106,20 +106,23 @@ content:
         # link: Link to company (optional)
         # quote: >
         #   Short description of the company (optional)
-        description: # this will include new lines to allow paragraphs
-          * Selected as part of a Global Internship Program that allows students to work in relevant companies worldwide. 
-          * Developed methodologies to improve on both visible and infrared drone‑detection technologies using various Computer Vision Mod
+        description: * Selected as part of a Global Internship Program that allows students to work in relevant companies worldwide. 
+          * Developed methodologies to improve on both visible and infrared drone‑detection technologies using various Computer Vision Models.
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+        title: University of Edinburgh 
+ 
+        sub_title: Msc in Speech and Language Processing
+        caption: 2023-2024
+        # quote: >
+        #   One of the 
+        description: * Accelerated Natural Language Processing |
+        * Speech Processing | 
+        * Natural Language Understanding, Generation, and Machine Translation |
+        * Automatic Speech Recognition | 
+        * Reinforcement Learning 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
