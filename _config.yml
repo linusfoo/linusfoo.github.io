@@ -80,9 +80,6 @@ content:
         quote: >
           A smart radio that uses facial recognition technology to predict user's emotion to modify their song playlist.
         description: Used Deep Face and Dlib models to predict emotions and fatigue level of users based on their facial expression. The system enqueues songs based on predictions using algorithm which ensures a smooth transition between songs based on their characteristics (tempo, danceability etc.) obtained using Spotipy to optimize user's mood and focus level. # this will include new lines to allow paragraphs
-    - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
         title: Happify.AI
         link: https://github.com/EMZEDI/Happify
         link_text: A Smart Radio
