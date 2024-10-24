@@ -50,8 +50,8 @@ linkedin_username: linus-foo
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profilepic.jpg
-about_content: I am a Software Engineer at Defence Science and Technology Agency (DSTA) working on various fields in Machine Learning including NLP and Computer Vision.
-# On the side, I engage in research relating to NLP where my research interest include <mark>Low-resource Languages, Language Representation and Biases in LLMs</mark>.
+about_content: I am a Software Engineer at Defence Science and Technology Agency (DSTA) working on various fields in Machine Learning including NLP and Computer Vision.|
+On the side, I engage in research relating to NLP where my research interest include <mark>Low-resource Languages, Language Representation and Biases in LLMs</mark>.
   # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
