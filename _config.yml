@@ -81,19 +81,19 @@ content:
           A smart radio that uses facial recognition technology to predict user's emotion to modify their song playlist.
         description: Used Deep Face and Dlib models to predict emotions and fatigue level of users based on their facial expression. The system enqueues songs based on predictions using algorithm which ensures a smooth transition between songs based on their characteristics (tempo, danceability etc.) obtained using Spotipy to optimize user's mood and focus level. # this will include new lines to allow paragraphs |
         
-        title: Happify.AI
-        link: https://github.com/EMZEDI/Happify
-        link_text: A Smart Radio
-        # additional_links:
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          A smart radio that uses facial recognition technology to predict user's emotion in order to enqueue songs that best matches their current state.
-        description: Used Deep Face and Dlib models
+        # title: Happify.AI
+        # link: https://github.com/EMZEDI/Happify
+        # link_text: A Smart Radio
+        # # additional_links:
+        #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   #   icon: fab fa-github
+        #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        #   # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+        #   #   icon: fab fa-github
+        #   #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        # quote: >
+        #   A smart radio that uses facial recognition technology to predict user's emotion in order to enqueue songs that best matches their current state.
+        # description: Used Deep Face and Dlib models
   - title: Experience
     layout: list
     content:
