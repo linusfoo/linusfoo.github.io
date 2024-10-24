@@ -124,21 +124,16 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: left
-        title: University of Edinburgh 
-        sub_title: Msc in Speech and Language Processing
-        caption: 2023-2024
-        # quote: >
-        #   One of the 
-        description: >
-        Awarded Grade: Distinction 
+      - title: Education
+  layout: list
+  content:
+    - layout: left
+      title: University of Edinburgh 
+      sub_title: MSc in Speech and Language Processing
+      caption: 2023-2024
+      description: >
+        Awarded Grade: Distinction  
         Dissertation Topic: [Towards Representational Learning of Pragmatic Functions of Singlish Discourse Particles Using LLMs](https://drive.google.com/file/d/1p8w4F9UfFZLsQzOBOybKx4mMlE7TCTjH/view?usp=sharing)
-        # # Relevant Courses:'
-        # - Accelerated Natural Language Processing | 
-        # - Speech Processing | 
-        # - Natural Language Understanding, Generation, and Machine Translation | 
-        # - Automatic Speech Recognition | 
-        # - Reinforcement Learning | 
       - layout: left
         title: McGill University
         sub_title: Bsc in Computer Science, Minor in Mathematics
