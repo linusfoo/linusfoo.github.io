@@ -114,8 +114,9 @@ content:
     content:
       - layout: right
         title: Defence Science and Technology Agency (DSTA)
-        sub_title: AAI Engineer (Intern)
-        caption: May 2022 ‑ Aug 2022
+        sub_title: AI Engineer (Intern)
+        caption: > 
+          May 2022 ‑ Aug 2022
         # link: Link to company (optional)
         # quote: >
         #   Short description of the company (optional)
