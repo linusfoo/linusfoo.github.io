@@ -130,8 +130,8 @@ content:
         caption: 2023-2024
         # quote: >
         #   One of the 
-        description: 
-        Relevant Courses':'
+        description: >
+        Relevant Courses:
         - Accelerated Natural Language Processing 
         - Speech Processing 
         - Natural Language Understanding, Generation, and Machine Translation 
