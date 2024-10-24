@@ -50,7 +50,8 @@ linkedin_username: linus-foo
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profilepic.jpg
-about_content: I am a Software Engineer at Defence Science and Technology Agency (DSTA) working on various fields in Machine Learning including Natural Language Processing (NLP, Automatic Speech Recognition (ASR) and Computer Vision (CV). On the side, I engage in research relating to NLP where my research interest include [Low-resource Languages(https://arxiv.org/abs/2006.07264), [Language Representation](https://aclanthology.org/J19-2006/) and [Biases in LLMs](https://arxiv.org/abs/2309.00770).
+about_content: I am an AI Engineer at Defence Science and Technology Agency (DSTA) working on various fields in Machine Learning including Natural Language Processing (NLP, Automatic Speech Recognition (ASR) and Computer Vision (CV). On the side, I engage in research relating to NLP where my research interest include [Low-resource Languages](https://arxiv.org/abs/2006.07264), [Language Representation](https://aclanthology.org/J19-2006/) and [Biases in LLMs](https://arxiv.org/abs/2309.00770).
+
   # Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
   # You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
@@ -66,19 +67,20 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: Happify.AI
+        link: https://github.com/EMZEDI/Happify
+        link_text: A Smart Radio
+        # additional_links:
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
+        description: \item Used Deep Face and Dlib models to predict emotions and fatigue level of users based on their facial expression.
+\item Enqueues songs based on predictions using algorithm which ensures a smooth transition between songs based on their characteristics (tempo, danceability etc.) obtained using Spotipy to optimize user's mood and focus level.| # this will include new lines to allow paragraphs
           Description about the work on/with the project
   - title: Experience
     layout: list
