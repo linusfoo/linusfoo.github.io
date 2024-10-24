@@ -107,7 +107,8 @@ content:
         # quote: >
         #   Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Developed methodologies to improve on both visible and infrared drone‑detection technologies using various Computer Vision Mod
+          * Selected as part of a Global Internship Program that allows students to work in relevant companies worldwide. | 
+          * Developed methodologies to improve on both visible and infrared drone‑detection technologies using various Computer Vision Mod
   - title: Education
     layout: list
     content:
