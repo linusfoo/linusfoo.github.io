@@ -106,8 +106,9 @@ content:
         # link: Link to company (optional)
         # quote: >
         #   Short description of the company (optional)
-        description: * Selected as part of a Global Internship Program that allows students to work in relevant companies worldwide. | 
-          * Developed methodologies to improve on both visible and infrared drone‑detection technologies using various Computer Vision Models.
+        description: 
+          - Selected as part of a Global Internship Program that allows students to work in relevant companies worldwide.
+          - Developed methodologies to improve on both visible and infrared drone‑detection technologies using various Computer Vision Models.
   - title: Education
     layout: list
     content:
