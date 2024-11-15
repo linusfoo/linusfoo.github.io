@@ -61,42 +61,7 @@ about_content: I am an AI Engineer at Defence Science and Technology Agency (DST
   #   - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-    # - layout: left
-      #   border: weak  # Value of `weak` will display a weak border below this item. # Any 
-      #                 # other value (or no value) means no border will be displayed
-      #   title: Happify.AI
-      #   link: https://github.com/EMZEDI/Happify
-      #   link_text: A Smart Radio
-      #   # additional_links:
-      #     # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-      #     #   icon: fab fa-github
-      #     #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-      #     # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-      #     #   icon: fab fa-github
-      #     #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-      #   quote: >
-      #     A smart radio that uses facial recognition technology to predict user's emotion in order to enqueue songs that best matches their current state.
-      #   description: Used Deep Face and Dlib models
-      - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
-                      # other value (or no value) means no border will be displayed
-        title: Happify.AI
-        link: https://github.com/EMZEDI/Happify
-        link_text: A Smart Radio
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: https://github.com/EMZEDI/Happify (eg. sproogen.github.io/modern-resume-theme)(optional)
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          A smart radio that uses facial recognition technology to predict user's emotion to modify their song playlist.
-        description: Used Deep Face and Dlib models to predict emotions and fatigue level of users based on their facial expression. The system enqueues songs based on predictions using algorithm which ensures a smooth transition between songs based on their characteristics (tempo, danceability etc.) obtained using Spotipy to optimize user's mood and focus level. # this will include new lines to allow paragraphs | 
-      
+ 
   - title: Experience
     layout: list
     content:
@@ -158,13 +123,33 @@ content:
         # - Natural Language Understanding, Generation, and Machine Translation 
         # - Automatic Speech Recognition 
         # - Reinforcement Learning 
+   - title: Projects # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: Happify.AI
+        link: https://github.com/EMZEDI/Happify
+        link_text: A Smart Radio
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://github.com/EMZEDI/Happify (eg. sproogen.github.io/modern-resume-theme)(optional)
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          A smart radio that uses facial recognition technology to predict user's emotion to modify their song playlist.
+        description: Used Deep Face and Dlib models to predict emotions and fatigue level of users based on their facial expression. The system enqueues songs based on predictions using algorithm which ensures a smooth transition between songs based on their characteristics (tempo, danceability etc.) obtained using Spotipy to optimize user's mood and focus level. # this will include new lines to allow paragraphs | 
+      
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       On top of the really exciting and nerdy stuff that I do at work, I am also a competitive multisport (duathlons and triathlons) athlete.
       Here are some pictures of me in action:
       
-      ![alt text](/images/IMG_9354.jpg "Cycling"){: width="50%"} ![alt text](/images/123838.JPEG "Cycling"){: width="50%"}
+      ![alt text](/images/IMG_9354.jpg "Cycling"){: width="50%"} ![alt text](/images/123838.JPEG "Running"){: width="50%"}
 
 # Footer
 footer_show_references: true
