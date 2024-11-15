@@ -160,9 +160,11 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      To get my mind off the nerdy stuff that I do at work, I swim, bike and run! My goal is to one day qualify for the nationa team in duathlon (and hopefully triathlon once I actually learn to swim properly).
+      To get my mind off the nerdy stuff that I do at work, I swim, bike and run! My goal is to one day qualify for the national team in duathlon (and hopefully triathlon once I actually learn to swim properly).
 
-      Here's a picture of me in action ![alt text](/images/IMG_9354.jpg "Cycling") 
+      Here's a picture of me in action ![alt text](/images/IMG_9354.jpg "Cycling"){: width="50%"}
+
+      ![alt text](123838.JPEG "Cycling"){: width="50%"}
 
 # Footer
 footer_show_references: true
