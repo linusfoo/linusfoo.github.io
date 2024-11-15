@@ -100,7 +100,7 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Defence Science and Technology Agency (DSTA)
         sub_title: Software Engineer
         caption: Sept 2024 - Present
@@ -112,7 +112,7 @@ content:
           - Back-end software Development work.
     # layout: list
     # content:
-      - layout: right
+      - layout: left
         title: Elettronica Group
         sub_title: AI Engineer (Intern)
         caption: June 2023 ‑ Aug 2023
@@ -124,7 +124,7 @@ content:
           - Developed methodologies to improve on both visible and infrared drone‑detection technologies using various Computer Vision Models.
     # layout: list
     # content:
-      - layout: right
+      - layout: left
         title: Defence Science and Technology Agency (DSTA)
         sub_title: AI Engineer (Intern)
         caption: > 
@@ -161,6 +161,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       To get my mind off the nerdy stuff that I do at work, I swim, bike and run! My goal is to one day qualify for the nationa team in duathlon (and hopefully triathlon once I actually learn to swim properly).
+
+      Here's a picture of me in action ![alt text](/images/landscape-trees.jpg "Trees")
       # This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
       # Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
