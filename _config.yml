@@ -106,7 +106,7 @@ content:
         # link: Link to company (optional)
         # quote: >
         #   Short description of the company (optional)
-        description: |
+        description:
           - Selected as part of a Global Internship Program that allows students to work in relevant companies worldwide. |
           - Developed methodologies to improve on both visible and infrared drone‑detection technologies using various Computer Vision Models.
   - title: Experience
@@ -131,7 +131,7 @@ content:
         sub_title: MSc in Speech and Language Processing
         caption: 2023-2024
         description: >
-          Awarded Grade: Distinction  
+          Awarded Grade: Distinction | 
           Dissertation Topic: [Towards Representational Learning of Pragmatic Functions of Singlish Discourse Particles Using LLMs](https://drive.google.com/file/d/1p8w4F9UfFZLsQzOBOybKx4mMlE7TCTjH/view?usp=sharing)
       - layout: left
         title: McGill University
