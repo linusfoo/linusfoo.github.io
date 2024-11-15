@@ -100,7 +100,7 @@ content:
           - Worked with generative LLMs (such as GPT-models) to perform translation of low-resource languages.
   - title: Research Publications
     layout: list
-     content:
+    content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
