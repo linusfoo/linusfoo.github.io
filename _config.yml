@@ -110,8 +110,8 @@ content:
         description: | 
           - Working on novel Machine Learning systems in various fields such as Computer Vision and Automatic Speech Recognition.
           - Back-end software Development work.
-    layout: list
-    content:
+    # layout: list
+    # content:
       - layout: right
         title: Elettronica Group
         sub_title: AI Engineer (Intern)
@@ -122,8 +122,8 @@ content:
         description: | 
           - Selected as part of a Global Internship Program that allows students to work in relevant companies worldwide.
           - Developed methodologies to improve on both visible and infrared drone‑detection technologies using various Computer Vision Models.
-    layout: list
-    content:
+    # layout: list
+    # content:
       - layout: right
         title: Defence Science and Technology Agency (DSTA)
         sub_title: AI Engineer (Intern)
