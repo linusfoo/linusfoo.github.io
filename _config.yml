@@ -138,6 +138,12 @@ content:
         description: | 
           - Awarded Grade: Distinction 
           - Dissertation Topic: [Towards Representational Learning of Pragmatic Functions of Singlish Discourse Particles Using LLMs](https://drive.google.com/file/d/1p8w4F9UfFZLsQzOBOybKx4mMlE7TCTjH/view?usp=sharing)
+          - Relevant Classes
+            - Accelerated Natural Language Processing 
+            - Speech Processing 
+            - Natural Language Understanding, Generation, and Machine Translation 
+            - Automatic Speech Recognition 
+            - Reinforcement Learning 
       - layout: left
         title: McGill University
         sub_title: Bsc in Computer Science, Minor in Mathematics
@@ -146,11 +152,11 @@ content:
         #   One of the 
         description: | 
           - GPA 3.93/4.0
-          - Relevant Classes
+          - Relevant Classes:
             - Applied Machine Learning
             - Computational Linguistics
             - Probabilitis Programming
-            - NLP and Data Sciences
+            - NLP and Data Science
         # - Accelerated Natural Language Processing 
         # - Speech Processing 
         # - Natural Language Understanding, Generation, and Machine Translation 
