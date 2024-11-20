@@ -144,8 +144,8 @@ content:
         caption: 2020-2023
         # quote: >
         #   One of the 
-        description: 
-          - GPA 3.93/4.0
+        description: | 
+          - GPA 3.93/4.0 |
           - Relevant Classes | 
             - Applied Machine Learning
             - Computational Linguistics
