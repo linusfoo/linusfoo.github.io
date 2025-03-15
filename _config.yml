@@ -101,8 +101,10 @@ content:
         # quote: >
         #   Short description of the company (optional)
         description: | 
-          - Working on novel Machine Learning systems in various fields such as Computer Vision and Automatic Speech Recognition.
-          - Back-end software Development work.
+          - Developing AI models in speech and computer vision, with a focus on low-resource languages and environments.
+          - Building backend systems, leveraging technologies such as Kafka for real-time data streaming and processing.
+          - Working at the intersection of AI and infrastructure to create scalable, efficient, and high-performance solutions.
+          - Developing responsive, user-friendly user-interface for web applications.
     # layout: list
     # content:
       - layout: left
